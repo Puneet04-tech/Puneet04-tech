@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Puneet%20Chaturvedi&fontSize=72&fontColor=ff6b6b&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source&descAlignY=58&descAlign=50&descSize=18&descColor=ffd93d"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=72&pause=1000&color=ff6b6b&center=true&vCenter=true&width=800&lines=Puneet+Chaturvedi" alt="Name" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=ffd93d&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer+%7C+AI+Engineer+%7C+Open+Source" alt="Description" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=28&pause=500&color=ff6b6b&center=true&vCenter=true&width=700&lines=CS+Student+%40+VIT+Bhopal+%F0%9F%8E%93;GSoC+2026+Contributor+%F0%9F%9A%80;GSSoC+2026+Project+Admin+%F0%9F%94%A5;Full-Stack+%26+AI+Systems+Builder+%F0%9F%A4%96;AI+Engineer+Enthusiast+%F0%9F%A7%A0;Web3+%26+Blockchain+Enthusiast+%F0%9F%94%97;Top+10+%40+GenAI+ML+Hackathon+2025+%F0%9F%8F%86" alt="Typing SVG" />
