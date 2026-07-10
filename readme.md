@@ -55,11 +55,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=❄️+WINTER+IS+COMING+❄️" alt="Winter is Coming" />
-</div>
-
----
 
 ### 🛠️ Tech Stack & Proficiency
 
@@ -137,6 +132,7 @@
 
 ---
 
+
 ### 📊 GitHub Stats & Contribution Graph
 
 <div align="center">
@@ -146,13 +142,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puneet04-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet04-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Puneet04-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet04-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
