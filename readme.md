@@ -88,13 +88,26 @@
 
 ### 🚀 Projects
 
+**🔥 Currently Working On**
+
 | Project | Description | Tech Stack | Team |
 |---|---|---|---|
-| 🛡️ **[Helix](https://github.com/Puneet04-tech/helix)** | Multi-tenant full-stack SaaS with 4-agent LangChain orchestration for autonomous threat intelligence & anomaly detection | NestJS · Next.js · MongoDB · LangChain | Solo |
-| 🌾 **[Krishi Sutra](https://github.com/Puneet04-tech/krishi-sutra)** | Decentralized agricultural Web3 app with crop yield tokenization via Polygon smart contracts & IPFS. Dual-AI engine for crop grading & loan risk assessment | Python · Next.js · FastAPI · TensorFlow · Web3.py · Polygon · IPFS | Solo |
-| 🤖 **[Guardian AI](https://github.com/Puneet04-tech/guardian-ai)** | Autonomous security engineer that monitors codebases 24/7. Identifies vulnerabilities using Gemini 2.0 & auto-generates patches via GitHub PRs | Next.js · TypeScript · Google Vertex AI · DevSecOps | Solo |
-| 📚 **[Aegis Classroom](https://github.com/Puneet04-tech/aegis-classroom)** | Comprehensive educational platform with real-time collaboration features, AI-powered insights, and data visualization analytics | React · TailwindCSS · Google AI · Recharts | Solo |
-| 🧠 **[Content & Emotion Analyzer](https://github.com/Puneet04-tech/emotion-analyzer)** | Intelligent NLP portal that processes text samples to classify 8+ emotions with 85% accuracy. Dynamic visualizations for sentiment trends | React · Python · NLP Models · Recharts | Solo |
+| 🛡️ **[Helix](https://github.com/Puneet04-tech/helix)** | Multi-tenant full-stack SaaS with 4-agent LangChain orchestration for autonomous threat intelligence & anomaly detection. Ingests security data in <10ms | NestJS · Next.js · MongoDB · LangChain · Multi-Agent Orchestration | Solo |
+| 🌾 **[Krishi Sutra](https://github.com/Puneet04-tech/krishi-sutra)** | Decentralized agricultural Web3 backend with crop yield tokenization via Polygon smart contracts & IPFS. Dual-AI engine for crop grading & loan risk assessment | Python · FastAPI · TensorFlow · Web3.py · Polygon Smart Contracts | Solo |
+| 🤖 **[Guardian AI](https://g-uardian-ai.netlify.app/)** | World's first fully autonomous AI security engineer. Operates 24/7 monitoring codebases, detecting vulnerabilities, generating secure patches, and creating GitHub PRs automatically | Next.js · Vertex AI · TypeScript · DevSecOps | Solo |
+| 🎓 **[Nebula AI Teaching Assistant](https://nebu-la-ai.netlify.app/)** | Next-generation AI teaching assistant powered by Groq AI. Features gesture control, adaptive intelligence, privacy-first engagement tracking, and real-time classroom analytics | Next.js · TypeScript · Groq AI · Computer Vision | Solo |
+| 💼 **[GigFlow](https://g-i-g-flow.netlify.app/)** | Premium freelance marketplace platform connecting clients with top-rated freelancers. Features unlimited gig posting, real-time bidding system, secure payment processing, and real-time notifications | React · Redux · Socket.io · Node.js · PWA | Solo |
+| 📚 **[Aegis Classroom](https://aegis-classroom.netlify.app/)** | Comprehensive educational platform with real-time collaboration, interactive learning tools, AI-powered insights, and seamless classroom management | React · TailwindCSS · AI · Recharts · Educational Tech | Solo |
+| 🏛️ **[Karya Siddhi](https://karyasiddhi.netlify.app/)** | Government performance management system bringing transparency and data-driven efficiency to public sector operations. Features real-time analytics, dashboard monitoring, and automated reporting | React 18 · TypeScript · NestJS · TailwindCSS | Solo |
+
+**📦 Completed Projects**
+
+| Project | Description | Tech Stack | Team |
+|---|---|---|---|
+| 🧠 **[Content & Emotion Analyzer](https://content-and-emotion-analyzing-portal.netlify.app/)** | Advanced NLP-powered portal that analyzes text for sentiment and emotion detection. Features real-time analysis, interactive visualizations, topic extraction, and shareable reports | NLP · Sentiment Analysis · React · Data Visualization | Solo |
+| 🐛 **[Bug Tracker](https://b-u-g-fixer.netlify.app/)** | Efficient bug tracking and project management tool with issue tracking, team collaboration, and progress monitoring. Features drag-and-drop task management and automated notifications | React · Project Management · UI/UX | Solo |
+| 🧪 **[Fosse Chemical Equipment Visualizer](https://chemical-equipement.netlify.app/)** | Specialized chemical equipment visualization tool with interactive 3D equipment models, detailed specifications, and comprehensive chemical engineering data visualization | React3D Visualization · Chemical Engineering · Industrial Design | Solo |
+| 🏥 **[Health Care Bot](https://h-ealthbot.netlify.app/)** | Interactive healthcare chatbot providing basic health information and tips. Features conversational interface, symptom checking, and health resource recommendations | React · JavaScript · Bootstrap | Solo |
 
 ---
 
