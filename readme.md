@@ -43,7 +43,7 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 **CS Student** : VIT Bhopal · CGPA: 8.71  
-- 🔬 **Full-Stack Developer** : 5+ deployed projects including autonomous security systems & educational platforms  
+- 🔬 **Full-Stack Developer** : 12+ deployed projects including autonomous security systems & educational platforms  
 - 🤝 **Open Source Contributor** : GSSoC 2026 (Contributor & Project Admin)  
 - 🚀 **GSSoC 2026** : Selected as contributor & project administrator  
 - 🏆 **Hackathon** : Top 10 at GenAI & ML Mumbai Hackathon 2025 (500+ participants)  
