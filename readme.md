@@ -145,11 +145,10 @@
 
 <div align="center">
 
-| Repository | Domain | Merged PRs | Status |
+| Repository | Domain | Links | Status |
 |---|---|---|---|
-| 🌿 [GSSoC 2026 Repositories](https://github.com/Puneet04-tech) | Full-Stack · AI  | 8+ | GSSoC 2026 |
-| 🏢 [Microsoft Technical Club Portal](https://github.com/Puneet04-tech) | Web Development | 5+ | Active |
-| 🎯 [Open Source Contributions](https://github.com/Puneet04-tech) | Various Domains | 10+ | Active |
+| 🌿 [GSSoC 2026 Profile](https://gssoc.girlscript.org/profile/dac4ca5a-bfb5-44f3-af3e-5da0e969cb29) | Full-Stack · AI | [Repo](https://github.com/Puneet04-tech/1-1-mentor-session-booking-app) | GSSoC 2026 |
+| 🏢 [Microsoft Technical Club](https://github.com/Microsoft-Technical-Club-VIT-Bhopal/MSTC-VITB-Website/tree/MSTC-core-member-Puneet_Chaturvedi) | Web Development | [Branch](https://github.com/Microsoft-Technical-Club-VIT-Bhopal/MSTC-VITB-Website/tree/puneet-chaturvedi) | Core Member |
 
 </div>
 
