@@ -1,42 +1,40 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=72&pause=1000&color=ff6b6b&center=true&vCenter=true&width=800&lines=Puneet+Chaturvedi" alt="Name" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Puneet%20Chaturvedi&fontSize=72&fontColor=ff6b6b&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source&descAlignY=58&descAlign=50&descSize=18&descColor=ffd93d"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=ffd93d&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer+%7C+AI+Engineer+%7C+Open+Source" alt="Description" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=28&pause=500&color=ff6b6b&center=true&vCenter=true&width=700&lines=CS+Student+%40+VIT+Bhopal+%F0%9F%8E%93;GSoC+2026+Contributor+%F0%9F%9A%80;GSSoC+2026+Project+Admin+%F0%9F%94%A5;Full-Stack+%26+AI+Systems+Builder+%F0%9F%A4%96;AI+Engineer+Enthusiast+%F0%9F%A7%A0;Web3+%26+Blockchain+Enthusiast+%F0%9F%94%97;Top+10+%40+GenAI+ML+Hackathon+2025+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=28&pause=400&color=ff6b6b&center=true&vCenter=true&width=700&lines=CS+Student+%40+VIT+Bhopal+%F0%9F%8E%93;GSoC+2026+Contributor+%F0%9F%9A%80;GSSoC+2026+Project+Admin+%F0%9F%94%A5;Full-Stack+%26+AI+Systems+Builder+%F0%9F%A4%96;AI+Engineer+Enthusiast+%F0%9F%A7%A0;Web3+%26+Blockchain+Enthusiast+%F0%9F%94%97;Top+10+%40+GenAI+ML+Hackathon+2025+%F0%9F%8F%86" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Puneet04-tech&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Puneet04-tech&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Puneet04-tech?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/Puneet04-tech?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/puneet-chaturvedi004a3327">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=spin" />
   </a>
   &nbsp;&nbsp;
   <a href="https://po-r-t-f-o-l-io.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:chaturvedipuneet200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/puneet_Chaturvedi-04/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
+</div>
 
 ### 🙋‍♂️ About Me
 
@@ -61,6 +59,9 @@
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=80&section=header&text=Tech+Stack&fontSize=40&fontColor=ff6b6b&animation=fadeIn"/>
+</div>
 
 ### 🛠️ Tech Stack & Proficiency
 
@@ -85,6 +86,10 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,npm)](https://skillicons.dev)
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=header&text=Projects&fontSize=40&fontColor=ff6b6b&animation=fadeIn"/>
+</div>
 
 ### 🚀 Projects
 
@@ -111,6 +116,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=80&section=header&text=Highlights&fontSize=40&fontColor=ffd93d&animation=fadeIn"/>
+</div>
+
 ### 🏆 Highlights
 
 | | |
@@ -123,6 +132,10 @@
 | 🌐 **Web3 Development** | Polygon Smart Contracts · IPFS · Tokenization |
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=header&text=Open+Source&fontSize=40&fontColor=ff6b6b&animation=fadeIn"/>
+</div>
 
 ### 🌍 Open Source Footprint
 
@@ -143,6 +156,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=80&section=header&text=3D+Calendar&fontSize=40&fontColor=ff6b6b&animation=fadeIn"/>
+</div>
 
 ### 🌐 3D Contribution Calendar
 <div align="center">
