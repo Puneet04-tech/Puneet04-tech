@@ -142,11 +142,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puneet04-tech&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet04-tech&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Puneet04-tech&theme=github_dark" alt="GitHub Profile Details" />
 </div>
 
----
+<br/>
 
 ### 📈 GitHub Streak Stats
 <div align="center">
