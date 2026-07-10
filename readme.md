@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Puneet%20Chaturvedi&fontSize=72&fontColor=ff6b6b&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source&descAlignY=58&descAlign=50&descSize=18&descColor=ffd93d"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=72&pause=1000&color=ff6b6b&center=true&vCenter=true&width=800&lines=Puneet+Chaturvedi" alt="Name" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=100&section=header&text=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source&fontSize=24&fontColor=ffd93d&animation=twinkling&fontAlignY=30"/>
 </div>
 
 <div align="center">
