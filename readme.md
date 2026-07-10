@@ -147,7 +147,8 @@
 
 | Repository | Domain | Links | Status |
 |---|---|---|---|
-| 🌿 [GSSoC 2026 Profile](https://gssoc.girlscript.org/profile/dac4ca5a-bfb5-44f3-af3e-5da0e969cb29) | Full-Stack · AI | [Repo](https://github.com/Puneet04-tech/1-1-mentor-session-booking-app) | GSSoC 2026 |
+| 🌿 [GSSoC 2026 Profile](https://gssoc.girlscript.org/profile/dac4ca5a-bfb5-44f3-af3e-5da0e969cb29) | Full-Stack · AI | [Repo](https://github.com/Puneet04-tech/AegisGraph-Sentinel-2.0) | GSSoC 2026 |
+| 🌞 [SSoC 2026 Profile](https://github.com/Puneet04-tech/1-1-mentor-session-booking-app) | Full-Stack · Mentorship | [Repo](https://github.com/Puneet04-tech/1-1-mentor-session-booking-app) | Social Summer of Code |
 | 🏢 [Microsoft Technical Club](https://github.com/Microsoft-Technical-Club-VIT-Bhopal/MSTC-VITB-Website/tree/MSTC-core-member-Puneet_Chaturvedi) | Web Development | [Branch](https://github.com/Microsoft-Technical-Club-VIT-Bhopal/MSTC-VITB-Website/tree/puneet-chaturvedi) | Core Member |
 
 </div>
