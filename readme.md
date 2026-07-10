@@ -156,12 +156,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Puneet04-tech" />
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=80&section=header&text=3D+Calendar&fontSize=40&fontColor=ff6b6b&animation=fadeIn"/>
 </div>
 
