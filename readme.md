@@ -37,7 +37,7 @@
 - 🎓 **CS Student** : VIT Bhopal · CGPA: 8.71  
 - 🔬 **Full-Stack Developer** : 5+ deployed projects including autonomous security systems & educational platforms  
 - 🤝 **Open Source Contributor** : GSSoC 2026 (Contributor & Project Admin)  
-- 🚀 **GSoC 2026** : Selected as contributor & project administrator  
+- 🚀 **GSSoC 2026** : Selected as contributor & project administrator  
 - 🏆 **Hackathon** : Top 10 at GenAI & ML Mumbai Hackathon 2025 (500+ participants)  
 - 🌐 **Web3 Enthusiast** : Polygon Smart Contracts · IPFS · Tokenization  
 - 📫 Reach me: **chaturvedipuneet200@gmail.com**
@@ -98,9 +98,9 @@
 |---|---|
 | 🎉 **GSSoC 2026** | Selected out of 35,000+ applicants : Contributor & Project Admin |
 | 🏅 **GenAI & ML Mumbai Hackathon 2025** | Top 10 out of 500+ participants |
-| 🎯 **GSoC 2026** | Selected as contributor & project administrator |
-| 🏢 **Microsoft Technical Club** | Web Developer Lead @ VIT Bhopal |
+| 🏢 **Microsoft Technical Club** | Web Developer Core Member @ VIT Bhopal |
 | 📊 **B.Tech CS** | CGPA: 8.71 @ VIT Bhopal |
+
 | 🌐 **Web3 Development** | Polygon Smart Contracts · IPFS · Tokenization |
 
 ---
@@ -111,7 +111,7 @@
 
 | Repository | Domain | Merged PRs | Status |
 |---|---|---|---|
-| 🌿 [GSSoC 2026 Repositories](https://github.com/Puneet04-tech) | Full-Stack · AI · Web3 | 8+ | GSoC 2026 |
+| 🌿 [GSSoC 2026 Repositories](https://github.com/Puneet04-tech) | Full-Stack · AI  | 8+ | GSSoC 2026 |
 | 🏢 [Microsoft Technical Club Portal](https://github.com/Puneet04-tech) | Web Development | 5+ | Active |
 | 🎯 [Open Source Contributions](https://github.com/Puneet04-tech) | Various Domains | 10+ | Active |
 
