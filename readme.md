@@ -3,30 +3,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&color=00FFCC&center=true&vCenter=true&width=750&lines=PUNEET+CHATURVEDI;ASPIRING+FULL+STACK+%26+AI+ENGINEER;BUILDING+THE+FUTURE+OF+WEB3" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20Space&fontSize=40&animation=twinkling&bgAnimate=true" alt="Header Wave" />
-</p>
-
 ---
 
 ### 👤 About Me ⚡
 
-- 🎓 **Education:** Pursuing B.Tech in Computer Science at **VIT Bhopal** with an academic record of **8.71 CGPA**[cite: 1].
-- 🚀 **Core Focus:** Building high-performance full-stack web applications, decentralized platforms, and autonomous multi-agent systems[cite: 1].
-- 🛠️ **Community Leadership:** Active Web Developer at the **Microsoft Technical Club | VIT Bhopal**, engineering club portals and live evaluation architectures[cite: 1].
-- 🌐 **Open Source:** Selected as a Contributor & Project Administrator for **GSSoC 2026**, driving advancements in Full-Stack and AI spaces[cite: 1].
+* 🎓 **Education:** Pursuing B.Tech in Computer Science at **VIT Bhopal** with an academic record of **8.71 CGPA**[cite: 1].
+* 🚀 **Core Focus:** Building high-performance full-stack web applications, decentralized platforms, and autonomous multi-agent systems[cite: 1].
+* 🛠️ **Community Leadership:** Active Web Developer at the **Microsoft Technical Club | VIT Bhopal**, engineering club portals and live evaluation architectures[cite: 1].
+* 🌐 **Open Source:** Selected as a Contributor & Project Administrator for **GSSoC 2026**, driving advancements in Full-Stack and AI spaces[cite: 1].
 
 <br/>
 
 <!-- GITHUB STATS SECTION -->
 <h3 align="center">📊 Live Metrics & Development Activity</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Puneet04-tech&show_icons=true&theme=tokyonight&hide_border=false" alt="Puneet's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet04-tech&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats-github-cloud.vercel.app/api?username=puneet_Chaturvedi-04&theme=dark" alt="LeetCode Stats" width="85%"/>
 </p>
 
 ---
@@ -100,7 +93,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <br/>
   <!-- AI / Web3 -->
@@ -114,12 +107,8 @@
 
 ### 🏆 Achievements & Badges
 
-- 🏅 **Top 10 Finalist:** GenAI & ML Mumbai Hackathon 2025 (Out of 500+ competing builders)[cite: 1].
-- 🛡️ **Project Administrator:** Open Source engineering lead at GirlScript Summer of Code 2026[cite: 1].
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Puneet04-tech&theme=tokyonight&column=4&margin-w=15" alt="Trophies" />
-</p>
+* 🏅 **Top 10 Finalist:** GenAI & ML Mumbai Hackathon 2025 (Out of 500+ competing builders)[cite: 1].
+* 🛡️ **Project Administrator:** Open Source engineering lead at GirlScript Summer of Code 2026[cite: 1].
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Trying+to+Code+Better+Every+Day+%F0%9F%92%BB" alt="Footer Typing" />
