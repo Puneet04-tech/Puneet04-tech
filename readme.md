@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Puneet%20Chaturvedi&fontSize=72&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source&descAlignY=58&descAlign=50&descSize=18&descColor=8b949e"/>
 </div>
@@ -35,12 +34,12 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 **CS Student** : VIT Bhopal · CGPA: 8.71
-- 🔬 **Full-Stack Developer** : 5+ deployed projects including autonomous security systems & educational platforms
-- 🤝 **Open Source Contributor** : GSSoC 2026 (Contributor & Project Admin)
-- 🚀 **GSoC 2026** : Selected as contributor & project administrator
-- 🏆 **Hackathon** : Top 10 at GenAI & ML Mumbai Hackathon 2025 (500+ participants)
-- 🌐 **Web3 Enthusiast** : Polygon Smart Contracts · IPFS · Tokenization
+- 🎓 **CS Student** : VIT Bhopal · CGPA: 8.71  
+- 🔬 **Full-Stack Developer** : 5+ deployed projects including autonomous security systems & educational platforms  
+- 🤝 **Open Source Contributor** : GSSoC 2026 (Contributor & Project Admin)  
+- 🚀 **GSoC 2026** : Selected as contributor & project administrator  
+- 🏆 **Hackathon** : Top 10 at GenAI & ML Mumbai Hackathon 2025 (500+ participants)  
+- 🌐 **Web3 Enthusiast** : Polygon Smart Contracts · IPFS · Tokenization  
 - 📫 Reach me: **chaturvedipuneet200@gmail.com**
 
 ---
