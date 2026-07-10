@@ -131,7 +131,9 @@
 ---
 
 ### 🌐 3D Contribution Calendar
-<img src="https://raw.githubusercontent.com/Puneet04-tech/Puneet04-tech/main/svgs/profile-3d-contrib.svg" width="95%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Puneet04-tech/Puneet04-tech/main/svgs/profile-3d-contrib.svg" width="95%" alt="3D Contribution Calendar" />
+</div>
 
 ---
 
@@ -144,9 +146,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puneet04-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet04-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Puneet04-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet04-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
 </div>
 
 ---
@@ -161,13 +167,7 @@
 ### 🧮 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/puneet_Chaturvedi-04?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/puneet_Chaturvedi-04?theme=dark&font=baloo&extension=heatmap" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/puneet_Chaturvedi-04?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
 </div>
 
 ---
