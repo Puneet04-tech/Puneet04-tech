@@ -125,9 +125,9 @@
 
 ---
 
-### 🌐 3D Contribution Calendar
+### 🌐 Contribution Calendar
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Puneet04-tech/Puneet04-tech/main/svgs/profile-3d-contrib.svg" width="95%" alt="3D Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/Puneet04-tech" alt="Puneet04-tech's contribution graph" />
 </div>
 
 ---
@@ -142,9 +142,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puneet04-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet04-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Puneet04-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet04-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
