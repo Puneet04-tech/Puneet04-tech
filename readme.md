@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://portfolio.netlify.app">
+  <a href="https://po-r-t-f-o-l-io.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;&nbsp;
@@ -173,7 +173,7 @@
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/puneet-chaturvedi004a3327)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.netlify.app)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://po-r-t-f-o-l-io.netlify.app)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaturvedipuneet200@gmail.com)&nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/puneet_Chaturvedi-04/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Puneet04-tech)
